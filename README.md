@@ -14,7 +14,7 @@
 ![image](https://github.com/Asmortiz12/Servicios-Taller/assets/119527936/e6bdd052-e789-4c92-9ce6-d7389394ffd9)
 ![image](https://github.com/Asmortiz12/Servicios-Taller/assets/119527936/b4c220e6-88d5-488d-ab9e-9ff1af9a5f3b)
 ![image](https://github.com/Asmortiz12/Servicios-Taller/assets/119527936/01aa3085-1724-49a9-8144-d5f7734eb4a7)
-##updateProduct
+## updateProduct
 ![image](https://github.com/Asmortiz12/Servicios-Taller/assets/119527936/c9c310fc-64aa-4f4d-84e4-11b9516626b2)
 ![image](https://github.com/Asmortiz12/Servicios-Taller/assets/119527936/2576a2c9-ed22-48d0-841f-a1c3c69a5f53)
 ![image](https://github.com/Asmortiz12/Servicios-Taller/assets/119527936/9825cb96-b5e8-4772-9a68-2ae50aa15d3c)
